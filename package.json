@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com.Ganeshbabu1917/CICD",
+  "homepage": "https://<Ganeshbabu1917>.github.io/<https://github.com/Ganeshbabu1917/CICD.git>"
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
